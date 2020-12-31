@@ -1,0 +1,9 @@
+{
+  "name": "yarn-berry-webstorm-issue-demo",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
